@@ -9,6 +9,6 @@ https://github.com/ItsPatthanan/final-team04-task-engce301/tree/84be5e104c4111c3
 > ซอฟต์แวร์สำเร็จรูป [ซอฟต์แวร์สำเร็จรูป](https://github.com/ItsPatthanan/final-team04-task-engce301/tree/84be5e104c4111c39e4181523493dcfee6e181b3/%E0%B8%8B%E0%B8%AD%E0%B8%9F%E0%B8%95%E0%B9%8C%E0%B9%81%E0%B8%A7%E0%B8%A3%E0%B9%8C%E0%B8%AA%E0%B8%B3%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%88%E0%B8%A3%E0%B8%B9%E0%B8%9B) <br />
 
 # สมาชิก 
-> 1. นางสาวณัฐฎภรณ์  ใจมนต์     ตำแหน่ง System Analyst (SA) Email: natthaporn_ja65@live.rmutl.ac.th </tr> <br />
-> 2. นายพัทธนันท์  ใจช่วย        ตำแหน่ง Developer           Email: patthanan_ja65@live.rmutl.ac.th </tr> <br />
-> 3. นางสาวอริยา  รันยะ          ตำแหน่ง Tester              Email: ariya_ra65@live.rmutl.ac.th </tr> <br />
+> 1. นางสาว ณัฐฎภรณ์  ใจมนต์     ตำแหน่ง System Analyst (SA) Email: natthaporn_ja65@live.rmutl.ac.th </tr> <br />
+> 2. นาย พัทธนันท์  ใจช่วย        ตำแหน่ง Developer           Email: patthanan_ja65@live.rmutl.ac.th </tr> <br />
+> 3. นางสาว อริยา  รันยะ          ตำแหน่ง Tester              Email: ariya_ra65@live.rmutl.ac.th </tr> <br />
